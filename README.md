@@ -5,4 +5,7 @@ Just a simple Python script that uses pygame and requests to let you control a D
 Before running the script install the requirements
 
     pip install -r requirements.txt
-vscode 
+
+ Then edit the variables in the script and launch it
+
+    python dahua_joystick.py
